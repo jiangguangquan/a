@@ -1,0 +1,26 @@
+  <div id="htp">
+	      <div class="nav">
+	    
+	  	    <div class="all">
+		    {dede:channel type='top'}  
+		  	  	<a href="[field:typelink/]" >[field:typename/]</a>
+		  	  	  {/dede:channel}
+		  	  <!-- 	<a href="cont.html" class="xie">关于写意<img src="img1/ju.png"  alt=""></a>
+		  	  	<a href="###">写意数字</a>
+		  	  	<a href="###">意凡设计</a>
+		  	  	<a href="###">写意BIM</a>
+		  	  	<a href="###">意展展示</a>
+		  	  	<a href="###">银河魔方</a>
+		  	  	<a href="###">写意传播</a>
+		  	  	<a href="cont2.html">人才招聘</a>
+		  	  	<a href="last.html">联系我们</a> -->
+	        </div>
+	         
+	  	  		<img src="img1/up.png"  alt="" class="up">
+	  	  		 <div class="list">
+		  	  	  	  <a href="cont1.html">企业文化</a>
+		  	  	  	  <a href="###">新闻中心</a>
+		         </div>
+	  	  </div>
+	  	  
+      </div>

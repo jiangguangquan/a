@@ -1,0 +1,304 @@
+body,h1,h2,h3,h4,p,dl,dd,ul,ol,form,input,textarea,th,td,select{margin: 0;padding: 0;}
+em{font-style: normal;}
+li{list-style: none;}
+a{text-decoration: none;}
+img{border: none;vertical-align: top;}
+table{border-collapse: collapse;}
+input,textarea{outline: none;}
+textarea{resize:none;overflow: auto;}
+body{font-size:10px;font-family: arial;}
+.fl{
+float: left;
+}
+.fr{
+float: right;
+}
+.clear{
+zoom: 1;
+}
+.clear:after{
+content: "";
+display: block;
+clear: both;
+height: 0;
+overflow: hidden;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+}
+#wrap{
+	width: 100%;
+	height: 100%;
+	min-width: 320px;
+}
+.htp{
+  position: relative;
+
+}
+
+.nav{
+	width: 100%;
+	height: 90px;
+    background-color: #eeeeee;
+    position: fixed;
+    top: 0;
+   
+}
+.nav .all{
+     padding-top: 43px;
+	padding-left: 8.6%;
+}
+.nav .list{
+	width: 5%;
+	height: 70px;
+	text-align: center;
+	position: absolute;
+	left: 17%;
+	display: none;
+	background-color: #eeeeee;
+}
+.nav .list a{
+	font-size: 14px;
+	line-height: 30px;
+}
+.nav .all a{
+	margin-right: 4%;
+	color: #626262;
+}
+.nav .all a:hover{
+	color: #d6000f;
+}
+.nav .all  img{
+	width: 2%;
+	margin-top: 0.4%;
+	margin-left: -4%;
+	margin-right: 3%;
+}
+.nav .up{
+	right: 8.6%;
+	position: absolute;
+	width: 6%;
+	top: 32px;
+
+}
+.frist{
+	width: 100%;
+	height: 285px;
+	margin-bottom: 66px;
+}
+.center{
+	width: 82%;
+	height: 1294px;
+	margin: auto;
+	overflow: hidden;
+}
+
+.c1{
+	width: 100%;
+	margin: auto;
+	color: #eeeeee;
+}
+.c1 .title{
+	width: 30%;
+	height: 60px;
+}
+.c1 .title-1{
+	height: 60px;
+}
+.c1 .title-1 img{
+	height: 100%;
+}
+.c1 .title .title-l{
+	margin-right: 8%;
+}
+.c1 .title .title-r{
+	height: 61px;
+}
+.c1 .title .title-r h1{
+	color: #000000;
+	margin-bottom: 27px;
+}
+.c1 .title .title-r span{
+	color: #777777;
+}
+.c2{
+	width: 100%;
+	margin: auto;
+	height: 30%;
+	margin-top: 54px;
+	padding-left: 3.5%;
+	
+}
+.c2 .font{
+	margin-right: 3.6%;
+	width: 27%;
+	height: 100%;
+	
+}
+.c2 .font p{
+	margin-top: 38px;
+	line-height: 30px;
+	margin-bottom: 55px;
+	font-size: 14px;
+}
+.c2 .font a{
+   color: #d6000f;
+}
+.c2 .phtot{
+	width: 66%;
+	height: 100%;
+}
+.c2 .phtot img{
+
+	width: 100%;
+}
+
+.c3{
+	width: 100%;
+	margin: auto;
+	height: 30%;
+	margin-top: 26px;
+	padding-left: 3.5%;
+	
+}
+.c3 .font{
+	margin-right: 3.6%;
+	width: 27%;
+	height: 100%;
+	
+}
+.c3 .font p{
+	margin-top: 38px;
+	line-height: 30px;
+	margin-bottom: 55px;
+	font-size: 14px;
+}
+.c3 .font a{
+   color: #d6000f;
+}
+.c3 .phtot{
+	width: 66%;
+	height: 100%;
+	background-color: blue;
+}
+.c3 .phtot img{
+	height: 100%;
+	width: 100%;
+}
+
+.c4{
+	width: 100%;
+	margin: auto;
+	height: 25%;
+	margin-top: 26px;
+	padding-left: 3.5%;
+	
+}
+.c4 .font{
+	margin-right: 3.6%;
+	width: 27%;
+	height: 100%;
+	
+}
+.c4 .font p{
+	margin-top: 38px;
+	line-height: 30px;
+	margin-bottom: 55px;
+	font-size: 14px;
+}
+.c4 .font a{
+   color: #d6000f;
+}
+.c4 .phtot{
+	width: 66%;
+	height: 100%;
+	background-color: blue;
+}
+.c4 .phtot img{
+	height: 100%;
+	width: 100%;
+}
+
+.foot{
+	width: 100%;
+    height: 80%;
+   background-color: #eeeeee;
+   padding-top: 1px;
+   overflow: hidden;
+}
+.con-3{
+ 	width: 84.9170%;
+ 	margin: auto;
+ }
+ .all-2{
+ 	margin-top: 96px;
+ 	margin-bottom: 86px;
+ 	min-width: 320px;
+
+ }
+
+ .title{
+ 	width: 60px;
+ 	margin-bottom: 25px;
+    font-size: 14px;
+    font-weight: 900;
+ }
+
+ li{
+ 	margin-bottom: 13px;
+ 	
+ }
+ li a{
+ 	color: #434343;
+ 	width: 91px;
+ }
+.right{
+  text-align: right;
+  
+}
+.right img{
+	width: 50%;	
+}
+.right p{
+	font-size: 25px;
+	margin-top: 18px;
+	margin-bottom: 18px;
+}
+.right span{
+	color: #777777;
+}
+.right .weibo{
+	width: 12%;
+	padding-right: 25px;
+	margin-top: 38px;
+}
+.right .ma{
+	width: 33%;
+	margin-top: 15px;
+	margin-right: 0px;
+}
+ .foot-1{
+ 	margin-right: 60px;
+ }
+ .foot-left{
+ 	margin-right: 60px;
+ }
+
+
+ .link{
+     margin-top: 36px;
+     border-top: 1px solid #c4c4c4;
+     position: relative;
+ }
+ .link-1{
+ 	height: 101px;
+ 	text-align: center;
+ 	padding-top: 40px;
+ 	color: #777777;
+ }
+ .Top{
+ 	position: absolute;
+ 	right: 0;
+ 	top: 22px;
+ }
